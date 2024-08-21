@@ -41,13 +41,13 @@ body, html {
 .image-1 {
     left: 0;
     width: 100%;
-    background-image: url('/images/Hunt_Club.jpg');
+    background-image: url('./images/Hunt_Club.jpg');
 }
 
 .image-2 {
     right: 0;
     width: 50%;
-    background-image: url(/images/'Hunt_Club_2.jpg');
+    background-image: url(./images/'Hunt_Club_2.jpg');
     clip-path: inset(0 50% 0 0);
 }
 
